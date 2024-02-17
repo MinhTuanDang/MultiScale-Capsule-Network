@@ -3,7 +3,7 @@ A multi-scale capsule network
 
 ## requirements
 * mxnet 1.1.0
-* pthon 3.6.0
+* python 3.8.0
 
 ## Table of context
 1. [mutliscaleCapsule.py](./mutliscaleCapsule.py)
@@ -17,6 +17,6 @@ A multi-scale capsule network
 | :------: |:------:|:------:|
 | CapsNet | 0.911 | 0.732 |
 | MS-CapsNet | 0.922 | 0.751 |
-| MS-CapsNet+Drop | 0.927 | 0.752 |
+| MS-CapsNet+Drop | 0.929 | 0.752 |
 
 
